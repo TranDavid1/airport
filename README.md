@@ -13,6 +13,6 @@ Requirements :wrench:
 * The latest version of Java.
 
 How to build and install :electric_plug:
-1. Download the files from repository or clone the project
+1. Download the files from repository or clone the project and unzip the files
 2. Import the files into desired Java IDE
 3. Run the application through Main.java file
